@@ -1,5 +1,7 @@
 vendor/
 node_modules/
+.idea/
+.idea
 npm-debug.log
 
 # Laravel 4 specific
