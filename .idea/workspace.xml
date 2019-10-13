@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81e7ad4d-c955-4f44-a017-bbcdef255fcc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blank-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/waves.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/include/footerscripts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/include/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/include/page-title.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tables.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/include/navbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/include/navbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/include/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/include/sidebar.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +32,27 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -27,16 +64,21 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/template" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/template" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,6 +106,10 @@
       <workItem from="1570762777020" duration="4091000" />
       <workItem from="1570773276608" duration="801000" />
       <workItem from="1570788029946" duration="1013000" />
+      <workItem from="1570870338780" duration="6827000" />
+      <workItem from="1570883598296" duration="1175000" />
+      <workItem from="1570887153614" duration="11000" />
+      <workItem from="1570967742744" duration="3376000" />
     </task>
     <servers />
   </component>

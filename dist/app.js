@@ -47430,8 +47430,8 @@ var app = new Vue({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/ahmad/Documents/admintemplate/src/assets/app.js */"./src/assets/app.js");
-module.exports = __webpack_require__(/*! /home/ahmad/Documents/admintemplate/src/assets/app.scss */"./src/assets/app.scss");
+__webpack_require__(/*! /home/ahmadltp/www/htmlprojects/admintemplate/src/assets/app.js */"./src/assets/app.js");
+module.exports = __webpack_require__(/*! /home/ahmadltp/www/htmlprojects/admintemplate/src/assets/app.scss */"./src/assets/app.scss");
 
 
 /***/ })
