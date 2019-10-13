@@ -47387,10 +47387,21 @@ module.exports = function(module) {
 
 /***/ }),
 
-/***/ "./src/assets/app.js":
-/*!***************************!*\
-  !*** ./src/assets/app.js ***!
-  \***************************/
+/***/ "./src/assets/css/app.scss":
+/*!*********************************!*\
+  !*** ./src/assets/css/app.scss ***!
+  \*********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
+/***/ "./src/assets/js/app.js":
+/*!******************************!*\
+  !*** ./src/assets/js/app.js ***!
+  \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -47410,28 +47421,30 @@ var app = new Vue({
   el: '#wrapper'
 });
 
+__webpack_require__(/*! ./custom */ "./src/assets/js/custom.js");
+
 /***/ }),
 
-/***/ "./src/assets/app.scss":
-/*!*****************************!*\
-  !*** ./src/assets/app.scss ***!
-  \*****************************/
+/***/ "./src/assets/js/custom.js":
+/*!*********************************!*\
+  !*** ./src/assets/js/custom.js ***!
+  \*********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-// removed by extract-text-webpack-plugin
+
 
 /***/ }),
 
 /***/ 0:
-/*!*******************************************************!*\
-  !*** multi ./src/assets/app.js ./src/assets/app.scss ***!
-  \*******************************************************/
+/*!**************************************************************!*\
+  !*** multi ./src/assets/js/app.js ./src/assets/css/app.scss ***!
+  \**************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/ahmadltp/www/htmlprojects/admintemplate/src/assets/app.js */"./src/assets/app.js");
-module.exports = __webpack_require__(/*! /home/ahmadltp/www/htmlprojects/admintemplate/src/assets/app.scss */"./src/assets/app.scss");
+__webpack_require__(/*! /home/ahmadltp/www/htmlprojects/admintemplate/src/assets/js/app.js */"./src/assets/js/app.js");
+module.exports = __webpack_require__(/*! /home/ahmadltp/www/htmlprojects/admintemplate/src/assets/css/app.scss */"./src/assets/css/app.scss");
 
 
 /***/ })

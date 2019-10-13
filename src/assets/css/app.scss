@@ -6,7 +6,7 @@
 @import './dropdown';
 
 * {
-  border-radius: 0px!important;
+  //border-radius: 0px!important;
 }
 
 body {
@@ -19,6 +19,10 @@ body {
 }
 .fs-10 {
   font-size: 10rem!important;
+}
+
+.material-icons {
+  font-size: $font-size-base * 1.5!important;
 }
 
 .shadow-ask {

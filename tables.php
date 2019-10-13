@@ -16,8 +16,8 @@
             <div class="row pt-3">
                 <div class="col-sm-12">
                     <div class="card page-title">
-                        <table class="table table-sm table-hover">
-                            <thead>
+                        <table class="table table-sm table-hover table-borderless">
+                            <thead class="thead-light">
                             <th>Sr.</th>
                             <th>Name</th>
                             <th>Email</th>

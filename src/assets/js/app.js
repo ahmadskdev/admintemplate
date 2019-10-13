@@ -14,6 +14,6 @@ const app = new Vue({
     el: '#wrapper',
 });
 
-
+require('./custom');
 
 
