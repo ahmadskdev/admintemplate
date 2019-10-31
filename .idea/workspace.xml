@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81e7ad4d-c955-4f44-a017-bbcdef255fcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/js/custom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/dropdown.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/tooltip.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/waves.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/waves.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tables.php" beforeDir="false" afterPath="$PROJECT_DIR$/tables.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

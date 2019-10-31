@@ -47443,8 +47443,8 @@ __webpack_require__(/*! ./custom */ "./src/assets/js/custom.js");
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/ahmadltp/www/htmlprojects/admintemplate/src/assets/js/app.js */"./src/assets/js/app.js");
-module.exports = __webpack_require__(/*! /home/ahmadltp/www/htmlprojects/admintemplate/src/assets/css/app.scss */"./src/assets/css/app.scss");
+__webpack_require__(/*! /home/ahmad/Documents/admintemplate/src/assets/js/app.js */"./src/assets/js/app.js");
+module.exports = __webpack_require__(/*! /home/ahmad/Documents/admintemplate/src/assets/css/app.scss */"./src/assets/css/app.scss");
 
 
 /***/ })
